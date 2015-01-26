@@ -1,9 +1,8 @@
 package com.reflect;
 
-import com.lesson4.ArrayTest;
 
 import java.lang.reflect.Array;
-import java.util.Objects;
+
 
 /**
  * Created by nzhmac on 15/1/20.
